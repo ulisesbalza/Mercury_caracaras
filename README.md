@@ -19,7 +19,7 @@ predators. Here, we characterized the mercury concentrations in feathers of Stri
 _Phalcoboenus australis_ on Isla de los Estados (Argentina). With feather mercury levels averaging
 26.3 mg/kg, this population has the highest mean feather mercury ever reported for a bird population in
 South America. We propose that the high mercury concentrations are related to the feeding habits of the
-species: during feather moult, they are strongly associated with a Southern Rockhopper Penguin (Eudyptes
-chrysocome) colony known to be highly exposed to mercury contamination. Our results suggest that this
+species: during feather moult, they are strongly associated with a Southern Rockhopper Penguin (_Eudyptes
+chrysocome_) colony known to be highly exposed to mercury contamination. Our results suggest that this
 Striated Caracara population should be monitored for acute effects and potential impacts of mercury
 toxicity.
